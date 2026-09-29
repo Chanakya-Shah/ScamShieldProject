@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ScamShield
+data/raw/
+data/processed/
+models/
+mlruns/
